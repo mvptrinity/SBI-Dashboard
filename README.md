@@ -73,3 +73,13 @@ Key lessons included:
 - Applying UX principles to dashboard navigation and information hierarchy
 - Building dashboards as decision-support tools rather than reporting tools
 
+## How to Use
+1. Download the `.pbix` file
+2. Open with **Power BI Desktop**
+3. Use the slicers (Month, Location, Channel) to explore
+
+---
+
+**Built with ❤️ for data-driven hospitality/shortlet operations.**
+
+Feel free to fork or use as a template!
